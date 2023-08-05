@@ -8,10 +8,10 @@
 
 <h4>
 Publish Date:
-25/06/2023
+5/08/2023
 Generator For capmonster.cloud
 
-If you need help or anything do not hesitate to ask: H4cK3dR4du#0001
+If you need help or anything add me on discord: @jxrski
 
 This tool is made for educational purposes, I am not responsible for damages.
   
@@ -24,7 +24,7 @@ Please leave a star ;)
 
 - Requires: `Python 3.11`.
 - Needs Proxies.
-- Start: `python capmonster_gen_checker.py`
+- Start: `python main.py`
 
 ---
 
@@ -32,6 +32,7 @@ Please leave a star ;)
 
 - Proxy Support 
 - High Threads Support
+- Live Valid/Invalid Count
 - Fastest Capmonster Generator & Checker 
 - Saves API Keys With Balance Info
 
