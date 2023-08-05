@@ -1,6 +1,6 @@
-  <h2 align="center">Capmonster API Key Generator</h2>
+  <h2 align="center">Capmonster API Key Generator + Checker</h2>
   <p align="center">
-    Capmonster API Key Generator Created By <b>Me<b>
+    Capmonster API Key Generator Created By <b>jxrski<b>
     <br />
 </div>
 
